@@ -395,12 +395,12 @@ class _CardDetailsPageState extends State<CardDetailsPage> {
                                 ),
                               ],
                             ),
-                            Container(
-                              margin: const EdgeInsets.only(right: 15),
-                              width: 90,
-                              height: 25,
-                              child: const Image(image: AssetImage('packages/saven_unity_card_flutter_plugin/assets/images/VISA.png'))
-                            ),
+                            // Container(
+                            //   margin: const EdgeInsets.only(right: 15),
+                            //   width: 90,
+                            //   height: 25,
+                            //   child: const Image(image: AssetImage('packages/saven_unity_card_flutter_plugin/assets/images/VISA.png'))
+                            // ),
                           ],
                         ),
                       ],
